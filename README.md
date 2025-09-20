@@ -30,3 +30,20 @@ This project demonstrates practical data engineering for country-level analytics
 - Outlier detection & statistical processing
 - Feature transformation & scaling for ML
 - Documentation and automated report generation
+
+## Execution Instructions
+
+### Create and activate a venv
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+> (.venv) C:\project_dir\code> # if successful
+> ```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
